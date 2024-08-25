@@ -13,7 +13,6 @@ function App() {
             ...prev,
         ]);
     };
-    console.log('App');
     return (
         <div>
             <h1>Tasks</h1>
